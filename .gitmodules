@@ -1,0 +1,6 @@
+[submodule "subM_inst"]
+	path = subM_inst
+	url = git@github.com:youngic/subM_inst.git
+[submodule "subM_brig"]
+	path = subM_brig
+	url = git@github.com:youngic/subM_brig.git
